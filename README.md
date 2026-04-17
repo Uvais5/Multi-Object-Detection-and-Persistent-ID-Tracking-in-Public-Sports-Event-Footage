@@ -29,8 +29,8 @@ Input Video  →  YOLOv8s (Detection)  →  BoT-SORT (Tracking)  →  Supervisio
 
 ```bash
 # 1. Clone or unzip this repository
-git clone <repository-url>
-cd intern-ass
+git clone https://github.com/Uvais5/Multi-Object-Detection-and-Persistent-ID-Tracking-in-Public-Sports-Event-Footage
+cd Multi-Object-Detection-and-Persistent-ID-Tracking-in-Public-Sports-Event-Footage
 
 # 2. Create and activate a virtual environment
 python -m venv .venv
